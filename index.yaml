@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  flaskapp:
+  - apiVersion: v2
+    created: "2023-03-09T16:08:41.246246989+05:30"
+    description: A Helm chart for Flask application
+    digest: 8310734d4df15f4c1508a9390474f53f8673821acb891a89d8471b8f06afd142
+    name: flaskapp
+    urls:
+    - flaskapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-03-09T16:08:41.245842487+05:30"

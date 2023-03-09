@@ -1,0 +1,8 @@
+replicas: 3
+image:
+  repository: silvesterp/flaskapp
+  tag: latest
+service:
+  name: flaskapp-service
+  port: 80
+
